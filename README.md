@@ -1,0 +1,1 @@
+Thid project is a basic practice for frontend development and the use of git and github.
